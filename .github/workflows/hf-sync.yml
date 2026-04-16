@@ -14,5 +14,6 @@ jobs:
       - name: Sync to Hugging Face
         uses: huggingface/hub-sync@v0.1.0
         with:
-          repo_id: fullusernameavail/csc414project
+          github_repo_id: ${{ github.repository }}
+          huggingface_repo_id: fullusernameavail/csc414project
           hf_token: ${{ secrets.HF_TOKEN }}

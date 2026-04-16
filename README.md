@@ -1,5 +1,9 @@
-# csc414Project
-Project for CSC414
+---
+title: CSC414 Boolean Simplifier
+sdk: gradio
+app_file: app.py
+---
+
 Project regards a boolean simplifier/solver
 
 

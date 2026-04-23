@@ -6,8 +6,8 @@ app_file: app.py
 
 Project regards a boolean simplifier/solver
 
-
-
+Instructions for use:
+Go to HuggingFace Website for UI usage: https://huggingface.co/spaces/fullusernameavail/csc414project
 
 
 references
